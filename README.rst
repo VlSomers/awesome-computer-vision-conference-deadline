@@ -1,6 +1,17 @@
 # Awesome Computer Vision Conference Deadlines
 A curated list of Computer Vision related conferences with dates and paper registration deadlines.
 
+.. table:: Truth table for "not"
+   :widths: auto
+
+   =====  =====
+     A    not A
+   =====  =====
+   False  True
+   True   False
+   =====  =====
+   
+   
 +------------+-------------------------------------+--------------------------------------------------------------+---------------------------------------------------------------+
 |            | Grade                               | 2022                                                         | 2023                                                          |
 | Conference +--------------+----------------------+--------------------+---------------------+-------------------+--------------------+----------------+-------------------------+
