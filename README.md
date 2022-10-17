@@ -27,7 +27,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 
 ## 2023
 
-|<p>**2023**</p><p>**Conference**</p>|<p>[**Research.com**](https://research.com/conference-rankings/computer-science)</p><p>[**Impact score**](https://research.com/conference-rankings/computer-science)</p>|<p>[**Google Scholar**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)</p><p>[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)</p>|**Paper Registration**|**Dates**|**Location**|
+|<p>**2023**</p><p>**Conference**</p>|<p>[**Impact score**](https://research.com/conference-rankings/computer-science)</p>|<p>[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)</p>|**Paper Registration**|**Event Start-End Dates**|**Location**|
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |[**CVPR**](https://cvpr2023.thecvf.com/)|63.10|389|11 Nov 22|18 Jun -> 22 Jun 23|Vancouver, Canada|
 |**NIPS**|42.30|278|?|?|?|
@@ -44,7 +44,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 
 ## 2024
 
-|<p>**2024**</p><p>**Conference**</p>|<p>[**Research.com**](https://research.com/conference-rankings/computer-science)</p><p>[**Impact score**](https://research.com/conference-rankings/computer-science)</p>|<p>[**Google Scholar**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)</p><p>[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)</p>|**Paper Registration**|**Dates**|**Location**|
+|<p>**2024**</p><p>**Conference**</p>|<p>[**Impact score**](https://research.com/conference-rankings/computer-science)</p>|<p>[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)</p>|**Paper Registration**|**Event Start-End Dates**|**Location**|
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |**CVPR**|63.10|389|?|?|Seattle, USA|
 |**NIPS**|42.30|278|?|?|?|
