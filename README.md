@@ -9,7 +9,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 
 ## 2022
 
-|<p>**2022**</p><p>**Conference**</p>|<p>[**Impact score**](https://research.com/conference-rankings/computer-science)</p>|<p>[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)</p>|**Paper Registration**| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Venue Dates** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |**Location**|
+|<p>**2022**</p><p>**Conference**</p>|<p>[**Impact score**](https://research.com/conference-rankings/computer-science)</p>|<p>[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)</p>|**Paper Registration**| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Event Dates** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |**Location**|
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |[**CVPR**](https://cvpr2022.thecvf.com/)|63.10|389|9 Nov 21|19 Jun -> 24 Jun 22|New Orleans, USA|
 |[**NIPS**](https://nips.cc/)|42.30|278|16 May 22|28 Nov -> 9 Dec 22|New, Orleans, USA|
