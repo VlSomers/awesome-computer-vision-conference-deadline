@@ -32,7 +32,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 |[**CVPR**](https://cvpr2023.thecvf.com/)|63.10|389|11 Nov 22|18 Jun -> 22 Jun 23|Vancouver, Canada|
 |**NIPS**|42.30|278|?|?|?|
 |[**ICCV**](https://iccv2023.thecvf.com/)|40.60|239|8 Mar 23|2 Oct -> 6 Oct 23|Paris, France|
-|**ECCV**|33.20|186|X|X|X|
+|**ECCV**|33.20|186|-|-|-|
 |[**ICML**](https://icml.cc/Conferences/2023/Dates)|32.40|237|?|24 Jul -> 30 Jul 23|?|
 |[**AAAI**](https://aaai.org/Conferences/AAAI-23/)|32.10|180|8 Aug 22|7 Feb -> 14 Feb 23|Washington DC, USA|
 |[**ICLR**](https://iclr.cc/Conferences/2023)|31.80|286|21 Sep 22|1 May -> 5 May 23|Kigali, Rwanda|
@@ -48,7 +48,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |**CVPR**|63.10|389|?|?|Seattle, USA|
 |**NIPS**|42.30|278|?|?|?|
-|**ICCV**|40.60|239|X|X|X|
+|**ICCV**|40.60|239|-|-|-|
 |**ECCV**|33.20|186|?|?|?|
 |**ICML**|32.40|237|?|?|?|
 |**AAAI**|32.10|180|?|?|?|
