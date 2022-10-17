@@ -1,3 +1,5 @@
+[comment]: <> (used to generate all tables: https://products.aspose.app/words/conversion/word-to-md)
+
 # Awesome Computer Vision Conference Deadlines
 A curated list of Computer Vision related conferences with event dates and paper registration deadlines.
 
@@ -17,7 +19,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 |[**AAAI**](https://aaai.org/Conferences/AAAI-22/)|32.10|180|30 Aug 22|22 Feb -> 01 Mar 22|Virtual|
 |[**ICLR**](https://iclr.cc/virtual/2022/index.html)|31.80|286|21 Sep 21|25 Apr -> 29 Apr 22|Virtual|
 |[**IJCAI**](https://ijcai-22.org/)|19.20|120|07 Jan 22|23 Jul -> 29 Jul 22|Vienna, Austria|
-|[**WACV**](https://wacv2023.thecvf.com/)|9.70|76|22 Aug 23|03 Jan -> 08 Jan 23|Waikoloa, Hawaii|
+|[**WACV**](https://wacv2022.thecvf.com/)|9.70|76|11 Aug 21|04 Jan -> 08 Jan 22|Waikoloa, Hawaii|
 |[**BMVC**](https://bmvc2022.org/)|9.50|75|25 Jul 22|21 Nov -> 24 Nov 22|London, UK|
 |[**ICIP**](https://2022.ieeeicip.org/)|7.50|60|25 Feb 22|16 Oct -> 19 Oct 22|Bordeaux, France|
 |[**ACCV**](https://accv2022.org/en/default.asp)|5.70|46|06 Jul 22|04 Dec -> 08 Dec 22|Macau SAR, China|
@@ -35,7 +37,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 |[**AAAI**](https://aaai.org/Conferences/AAAI-23/)|32.10|180|8 Aug 22|7 Feb -> 14 Feb 23|Washington DC, USA|
 |[**ICLR**](https://iclr.cc/Conferences/2023)|31.80|286|21 Sep 22|1 May -> 5 May 23|Kigali Rwanda|
 |[**IJCAI**](https://ijcai-23.org/)|19.20|120|?|19 Aug -> 25 Aug 23|Cape Town, South Africa|
-|**WACV**|9.70|76|?|?|?|
+|[**WACV**](https://wacv2023.thecvf.com/)|9.70|76|22 Aug 22|03 Jan -> 08 Jan 23|Waikoloa, Hawaii|
 |**BMVC**|9.50|75|?|?|?|
 |[**ICIP**](http://2023.ieeeicip.org/)|7.50|60|?|9 Oct -> 12 Oct 23|Kuala Lumpur, Malaysia|
 |**ACCV**|5.70|46|?|?|?|
