@@ -57,6 +57,6 @@ A curated list of Computer Vision related conferences with event dates and paper
 |**ICIP**|7.50|60|?|?|?|
 |**ACCV**|5.70|46|?|?|?|
 
-#### Collaboration
+### Contribute
 Feel free to open a pull-request to keep each conference information up-to-date, fix any issue or even add a new conference.
 
