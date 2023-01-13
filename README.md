@@ -36,7 +36,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 |[**ICML**](https://icml.cc/Conferences/2023/Dates)|32.40|237|26 Jan 23|24 Jul -> 30 Jul 23|?|
 |[**AAAI**](https://aaai.org/Conferences/AAAI-23/)|32.10|180|8 Aug 22|7 Feb -> 14 Feb 23|Washington DC, USA|
 |[**ICLR**](https://iclr.cc/Conferences/2023)|31.80|286|21 Sep 22|1 May -> 5 May 23|Kigali, Rwanda|
-|[**IJCAI**](https://ijcai-23.org/)|19.20|120|?|19 Aug -> 25 Aug 23|Cape Town, South Africa|
+|[**IJCAI**](https://ijcai-23.org/)|19.20|120|11 Jan 23|19 Aug -> 25 Aug 23|Cape Town, South Africa|
 |[**WACV**](https://wacv2023.thecvf.com/)|9.70|76|22 Aug 22|3 Jan -> 8 Jan 23|Waikoloa, Hawaii|
 |**BMVC**|9.50|75|?|?|?|
 |[**ICIP**](http://2023.ieeeicip.org/)|7.50|60|?|9 Oct -> 12 Oct 23|Kuala Lumpur, Malaysia|
