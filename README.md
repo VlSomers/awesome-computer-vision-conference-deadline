@@ -39,7 +39,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 |[**IJCAI**](https://ijcai-23.org/)|19.20|120|11 Jan 23|19 Aug -> 25 Aug 23|Cape Town, South Africa|
 |[**WACV**](https://wacv2023.thecvf.com/)|9.70|76|22 Aug 22|3 Jan -> 8 Jan 23|Waikoloa, Hawaii|
 |**BMVC**|9.50|75|?|?|?|
-|[**ICIP**](http://2023.ieeeicip.org/)|7.50|60|?|9 Oct -> 12 Oct 23|Kuala Lumpur, Malaysia|
+|[**ICIP**](http://2023.ieeeicip.org/)|7.50|60|16 Feb 23|9 Oct -> 12 Oct 23|Kuala Lumpur, Malaysia|
 |**ACCV**|5.70|46|?|?|?|
 
 ## 2024
