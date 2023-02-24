@@ -30,7 +30,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 |**2023**|[**Impact score**](https://research.com/conference-rankings/computer-science)|[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)|**Paper Registration**|**Event Start-End Dates**|**Location**|
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |[**CVPR**](https://cvpr2023.thecvf.com/)|63.10|389|11 Nov 22|18 Jun -> 22 Jun 23|Vancouver, Canada|
-|**NIPS**|42.30|278|?|?|?|
+|[**NIPS**](https://nips.cc/)|42.30|278|11 May 23|10 Dec -> 15 Dec 23|New Orleans, USA|
 |[**ICCV**](https://iccv2023.thecvf.com/)|40.60|239|8 Mar 23|2 Oct -> 6 Oct 23|Paris, France|
 |**ECCV**|33.20|186|-|-|-|
 |[**ICML**](https://icml.cc/Conferences/2023/Dates)|32.40|237|26 Jan 23|24 Jul -> 30 Jul 23|?|
@@ -40,7 +40,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 |[**WACV**](https://wacv2023.thecvf.com/)|9.70|76|22 Aug 22|3 Jan -> 8 Jan 23|Waikoloa, Hawaii|
 |[**BMVC**](https://www.bmvc2023.org/)|9.50|75|12 May 23|20 -> 24 Nov 23|Aberdeen, UK|
 |[**ICIP**](http://2023.ieeeicip.org/)|7.50|60|16 Feb 23|9 Oct -> 12 Oct 23|Kuala Lumpur, Malaysia|
-|**ACCV**|5.70|46|?|?|?|
+|**ACCV**|5.70|46|-|-|-|
 
 ## 2024
 
@@ -57,7 +57,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 |**WACV**|9.70|76|?|?|?|
 |**BMVC**|9.50|75|?|?|?|
 |**ICIP**|7.50|60|?|?|?|
-|**ACCV**|5.70|46|?|?|?|
+|[**ACCV**](https://accv2024.org/home)|5.70|46|?|8 Dec -> 12 Dec 2024|Hanoi, Vietnam|
 
 ### Contribute
 Feel free to open a pull-request to keep each conference information up-to-date, fix any issue or even add a new conference.
