@@ -51,8 +51,8 @@ A curated list of Computer Vision related conferences with event dates and paper
 |**ICCV**|40.60|239|-|-|-|
 |**ECCV**|33.20|186|?|?|?|
 |**ICML**|32.40|237|?|?|?|
-|**AAAI**|32.10|180|?|?|?|
-|**ICLR**|31.80|286|?|?|?|
+|**AAAI**|32.10|180|15 Aug 23|20 -> 27 Feb 24|Vancouver, Canada|
+|**ICLR**|31.80|286|Sep 23?|May 24?|?|
 |**IJCAI**|19.20|120|Jan 24?|Aug 24|?|
 |**WACV**|9.70|76|28 Jun or 30 Aug 24|3 Jan -> 7 Jan 24|Waikoloa, Hawaii|
 |**BMVC**|9.50|75|May 24?|Nov 24?|?|
