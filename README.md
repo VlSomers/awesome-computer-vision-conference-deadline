@@ -56,7 +56,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 |**IJCAI**|19.20|120|Jan 24?|Aug 24|?|
 |**WACV**|9.70|76|28 Jun or 30 Aug 24|3 Jan -> 7 Jan 24|Waikoloa, Hawaii|
 |**BMVC**|9.50|75|May 24?|Nov 24?|?|
-|**ICIP**|7.50|60|Feb 24|Oct 24?|?|
+|**ICIP**|7.50|60|Feb 24?|Oct 24?|?|
 |[**ACCV**](https://accv2024.org/home)|5.70|46|?|8 Dec -> 12 Dec 2024|Hanoi, Vietnam|
 
 ### Contribute
