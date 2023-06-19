@@ -59,6 +59,13 @@ A curated list of Computer Vision related conferences with event dates and paper
 |**ICIP**|7.50|60|Feb 24?|Oct 24?|?|
 |[**ACCV**](https://accv2024.org/home)|5.70|46|?|8 Dec -> 12 Dec 2024|Hanoi, Vietnam|
 
+
+## Journals
+
+|**Name**|[**Impact score**](https://research.com/conference-rankings/computer-science)|[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)|
+| :-: | :-: | :-: |
+|**TPAMI**|37.80|165|
+
 ### Contribute
 Feel free to open a pull-request to keep each conference information up-to-date, fix any issue or even add a new conference.
 
