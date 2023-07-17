@@ -49,7 +49,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 |**CVPR**|63.10|389|Nov 23?|Jun 24?|Seattle, USA|
 |**NIPS**|42.30|278|May 24?|Dec 24?|?|
 |**ICCV**|40.60|239|-|-|-|
-|**ECCV**|33.20|186|Mar 24?|Oct 24?|?|
+|**ECCV**|33.20|186|Mar 24?|Sep 29 -> Oct 4|Milan, Italy|
 |**ICML**|32.40|237|Jan 24?|Jul 24?|?|
 |**AAAI**|32.10|180|15 Aug 23|20 -> 27 Feb 24|Vancouver, Canada|
 |**ICLR**|31.80|286|Sep 23?|May 24?|?|
