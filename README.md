@@ -46,7 +46,7 @@ A curated list of Computer Vision related conferences with event dates and paper
 
 |**2024**|[**Impact score**](https://research.com/conference-rankings/computer-science)|[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)|**Paper Registration**|**Event Start-End Dates**|**Location**|
 | :-: | :-: | :-: | :-: | :-: | :-: |
-|**CVPR**|63.10|389|Nov 23?|Jun 24?|Seattle, USA|
+|**CVPR**|63.10|389|Nov 10|17 -> 21 Jun 24|Seattle, USA|
 |**NIPS**|42.30|278|May 24?|Dec 24?|?|
 |**ICCV**|40.60|239|-|-|-|
 |**ECCV**|33.20|186|Mar 24?|Sep 29 -> Oct 4|Milan, Italy|
