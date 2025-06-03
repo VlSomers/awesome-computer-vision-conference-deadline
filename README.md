@@ -2,6 +2,7 @@
 
 # Awesome Computer Vision Conference Deadlines
 A curated list of Computer Vision related conferences with event dates and paper registration deadlines.
+
 Feel free to open a Pull Request to help me maintain this README 🙏.
 
 ### Useful links
