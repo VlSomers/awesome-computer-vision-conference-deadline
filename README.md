@@ -62,6 +62,22 @@ Feel free to open a Pull Request to help me maintain this README 🙏.
 |[**ACCV**](https://accv2024.org/home)|5.70|46|Jul 2|8 -> 12 Dec 2024|Hanoi, Vietnam|
 
 
+## 2025
+
+|**2025**|[**Impact score**](https://research.com/conference-rankings/computer-science)|[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)|**Paper Registration**|**Event Start-End Dates**|**Location**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|[**CVPR**](https://cvpr.thecvf.com/)|62.60|440|14 Nov 24|11 Jun -> 15 Jun 25|Nashville, USA|
+|[**NIPS**](https://neurips.cc/)|40.60|337|11 May 25|2 Dec -> 7 Dec 25|San Diego, California (USA)|
+|[**ICCV**](https://iccv.thecvf.com/)|43.80|291|3 Mar 25|19 Oct -> 23 Oct 25|Honolulu, Hawaii (USA)|
+|[**ICML**](https://icml.cc/)|30.10|268|23 Jan 25|13 Jul -> 19 Jul 25|Vancouver, Canada|
+|[**AAAI**](https://aaai.org/)|35.00|220|Jul 8 24|20 Oct -> 22 Oct 25|Madrid, Spain|
+|[**ICLR**](https://iclr.cc/)|38.10|304|01 Oct 24|24 Apr -> 28 Apr 25|Singapore, Singapore|
+|[**IJCAI**](https://www.ijcai.org/)|-|136|-|16 Aug -> 22 Aug 25|Montreal, Canada|
+|[**WACV**](https://wacv2025.thecvf.com/)|1.40|109|15 Jul 25|28 Feb -> 4 Mar 26|Tucson, Arizona (USA)|
+|[**BMVC**](https://www.bmva.org/bmvc)|6.90|65|13 May 25|24 Nov -> 27 Nov 25|Sheffield, UK|
+|[**ICIP**](https://2025.ieeeicip.org/)|8.60|66|11 Jun 25|14 Sep -> 17 Sep 25|Anchorage, Alaska (USA)|
+
+
 ## Journals
 
 |**Name**|[**Impact score**](https://research.com/conference-rankings/computer-science)|[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)|
