@@ -70,7 +70,7 @@ Feel free to open a Pull Request to help me maintain this README 🙏.
 |[**NIPS**](https://neurips.cc/)|40.60|337|11 May 25|2 Dec -> 7 Dec 25|San Diego, California (USA)|
 |[**ICCV**](https://iccv.thecvf.com/)|43.80|291|3 Mar 25|19 Oct -> 23 Oct 25|Honolulu, Hawaii (USA)|
 |[**ICML**](https://icml.cc/)|30.10|268|23 Jan 25|13 Jul -> 19 Jul 25|Vancouver, Canada|
-|[**AAAI**](https://aaai.org/)|35.00|220|Jul 8 24|20 Oct -> 22 Oct 25|Madrid, Spain|
+|[**AAAI**](https://aaai.org/)|35.00|220|7 Aug 24|20 Oct -> 22 Oct 25|Madrid, Spain|
 |[**ICLR**](https://iclr.cc/)|38.10|304|01 Oct 24|24 Apr -> 28 Apr 25|Singapore, Singapore|
 |[**IJCAI**](https://www.ijcai.org/)|-|136|-|16 Aug -> 22 Aug 25|Montreal, Canada|
 |[**WACV**](https://wacv2025.thecvf.com/)|1.40|109|15 Jul 25|28 Feb -> 4 Mar 26|Tucson, Arizona (USA)|
