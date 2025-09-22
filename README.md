@@ -9,6 +9,22 @@ Feel free to open a Pull Request to help me maintain this README 🙏.
 - [Deadlines](https://aideadlin.es/?sub=ML,CV)
 - [Acceptance rate](https://github.com/lixin4ever/Conference-Acceptance-Rate)
 
+## 2026
+
+|**2026**|[**Impact score**](https://research.com/conference-rankings/computer-science)|[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)|**Paper Registration**|**Event Start-End Dates**|**Location**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|[**CVPR**](https://cvpr.thecvf.com/)|62.60|440|13 Nov 25|3 Jun → 7 Jun 26|Denver, Colorado (USA)|
+|[**NIPS**](https://neurips.cc/)|40.60|337|TBA|TBA|TBA|
+|[**ECCV**](https://eccv2026.ecva.net/)|33.20|186|6 Mar 26|8 Sep → 13 Sep 26|Malmö, Sweden|
+|[**ICML**](https://icml.cc/)|30.10|268|TBA|6 Jul → 12 Jul 26|Seoul, South Korea (COEX)|
+|[**AAAI**](https://aaai.org/)|35.00|220|TBA|20 Jan → 27 Jan 26|Singapore EXPO, Singapore|
+|[**ICLR**](https://iclr.cc/)|38.10|304|24 Sep 25|TBA|TBA|
+|[**IJCAI**](https://www.ijcai.org/)|–|136|TBA|8 Aug → 14 Aug 26|Bremen, Germany|
+|[**WACV**](https://wacv2026.thecvf.com/)|1.40|109|TBA|TBA|TBA|
+|[**BMVC**](https://www.bmva.org/bmvc)|6.90|65|TBA|TBA|TBA|
+|[**ICIP**](https://2026.ieeeicip.org/)|8.60|66|TBA|13 Sep → 17 Sep 26|Tampere, Finland|
+|[**ACCV**](https://accv2026.org/)|5.70|46|TBA|TBA|TBA|
+
 ## 2025
 
 |**2025**|[**Impact score**](https://research.com/conference-rankings/computer-science)|[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)|**Paper Registration**|**Event Start-End Dates**|**Location**|
