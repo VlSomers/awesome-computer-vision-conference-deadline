@@ -96,6 +96,10 @@ Feel free to open a Pull Request to help me maintain this README 🙏.
 |**Name**|[**Impact score**](https://research.com/conference-rankings/computer-science)|[**h5-index**](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng_computervisionpatternrecognition)|
 | :-: | :-: | :-: |
 |**TPAMI**|37.80|165|
+| [**IEEE TPAMI**](https://www.computer.org/csdl/journal/tp) | 20.8 | 165 |
+| [**IJCV**](https://link.springer.com/journal/11263) | 11.6 | 70 |
+| [**IEEE TIP**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) | 10.8 | 100 |
+| [**CVIU**](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding) | 4.93 | 44 |
 
 ### Contribute
 Feel free to open a pull-request to keep each conference information up-to-date, fix any issue or even add a new conference.
